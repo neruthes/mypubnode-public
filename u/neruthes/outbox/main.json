@@ -3,7 +3,7 @@
     "id": "http://mypubnode.pages.dev/u/neruthes/outbox/main.json",
     "type": "OrderedCollectionPage",
     "prev": null,
-    "partOf": "http://mypubnode.pages.dev/u/neruthes/outbox/",
+    "partOf": "http://mypubnode.pages.dev/u/neruthes/outbox/index.json",
     "orderedItems": [
         {
             "@context": "https://www.w3.org/ns/activitystreams",

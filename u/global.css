@@ -100,6 +100,14 @@ Timeline elements
     color: #000;
 }
 
+.tla-ANY-avatarImg {
+    border-radius: 100vmax;
+    display: inline-block;
+    width: 18px;
+    height: 18px;
+    margin-right: 10px;
+}
+
 .tla-ANY-header--actorUsername {
     font-size: 13px;
     color: #666;
@@ -123,6 +131,7 @@ Timeline elements
     font-size: 13px;
     color: #666;
 }
+
 .tla-ANY-footer--permalink {
     font-size: 13px;
     color: #666;
