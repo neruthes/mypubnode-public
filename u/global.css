@@ -106,6 +106,7 @@ Timeline elements
     width: 18px;
     height: 18px;
     margin-right: 10px;
+    transform: translateY(3px);
 }
 
 .tla-ANY-header--actorUsername {
