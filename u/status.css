@@ -1,0 +1,76 @@
+.bigpart-for-statusPageMainArea {
+    border-left: 1px solid #DDD;
+    border-right: 1px solid #DDD;
+}
+
+.site-main-content {
+    min-height: 100vh;
+}
+
+.status-page-starting {
+    padding: 30px 0px 40px;
+    border-bottom: 1px solid #DDD;
+}
+
+.status-page-starting-inner {
+    font-size: 15px;
+    color: #666;
+}
+
+.status-page-starting .statusStarting-profileAnchor {
+    color: inherit;
+}
+
+.status-page-starting .statusStarting-name {
+    font-weight: 500;
+    color: #03C;
+}
+
+.status-page-major {
+    padding: 30px 0px 40px;
+}
+
+.status-page-ending {
+    /* padding: 30px 0px 40px; */
+}
+
+
+
+
+
+
+
+/*************************************************
+Local overrides for timeline elements
+*************************************************/
+.tlAction-ANY {
+    padding: 30px 0 60px;
+}
+
+.tla-ANY-header--actorFullname {
+    font-size: 19px;
+    margin-right: 5px;
+}
+
+.tla-ANY-header--actorUsername {
+    font-size: 15px;
+    margin-right: 5px;
+}
+
+.tla-ANY-header--actionName {
+    font-size: 15px;
+}
+
+.tla-ANY-content {
+    font-size: 19px;
+    padding: 20px;
+    margin: 40px 0px;
+}
+
+.tla-ANY-footer--time {
+    font-size: 15px;
+}
+
+.tla-ANY-footer--permalink {
+    font-size: 15px;
+}

@@ -1,0 +1,18 @@
+{
+    "@context": "https://www.w3.org/ns/activitystreams",
+    "type": "Person",
+    "id": "http://mypubnode.pages.dev/u/webdigest/",
+    "name": "Web Digest",
+    "preferredUsername": "webdigest",
+    "summary": "Offical website: https://webdigest.pages.dev/",
+    "inbox": "http://mypubnode.pages.dev/u/webdigest/inbox/",
+    "outbox": "http://mypubnode.pages.dev/u/webdigest/outbox/",
+    "followers": "http://mypubnode.pages.dev/u/webdigest/followers/",
+    "following": "http://mypubnode.pages.dev/u/webdigest/following/",
+    "liked": "http://mypubnode.pages.dev/u/webdigest/liked/",
+    "publicKey": {
+        "id": "http://mypubnode.pages.dev/u/webdigest/public.pem",
+        "owner": "http://mypubnode.pages.dev/u/webdigest/",
+        "publicKeyPem": "-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA6kC2VcESHRXA1C1t8GMK\nDReahibgQoNja1n3tt8YBYwUDKV1pqvETRRzRJODo8dvseLWqbBzKYuZ4cCSn1kz\n4zkgq7vhQLjJvSeCGQF2DI66udyd0XeIt8m+lTL0NbARsyvd1QmqYuLDuZk9asJt\npEJTMtecOa95AqpgrrHRdO+579ZiSebyhHVWr7JUgJa86qV28tVVQ/YPb1F+5n5C\nv4KLS3VY5wpti4cOVGJ7T+dHaD4jgs0xBUM8fnhooo27vVOo+ksDrspcPwyazxBA\neyBgijRT26oy0u8uguTT3bVWMyGCI0iywpi/21viSS2rIOK2wnzs7K8xI9NcecLF\nEQIDAQAB\n-----END PUBLIC KEY-----\n"
+    }
+}

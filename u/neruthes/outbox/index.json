@@ -1,0 +1,8 @@
+{
+    "@context": "https://www.w3.org/ns/activitystreams",
+    "id": "http://mypubnode.pages.dev/u/neruthes/",
+    "type": "OrderedCollection",
+    "totalItems": 1,
+    "first": "http://mypubnode.pages.dev/u/neruthes/outbox/main.json",
+    "last": "http://mypubnode.pages.dev/u/neruthes/outbox/main.json"
+}
