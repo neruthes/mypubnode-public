@@ -1,0 +1,24 @@
+{
+    "@context": "https://www.w3.org/ns/activitystreams",
+    "type": "Create",
+    "id": "http://mypubnode.pages.dev/u/neruthes/activities/act-20230114-092527.create.json",
+    "published": "2023-01-14T09:25:27Z",
+    "to": [
+        "http://mypubnode.pages.dev/u/neruthes/followers/",
+        "https://www.w3.org/ns/activitystreams#Public"
+    ],
+    "actor": "http://mypubnode.pages.dev/u/neruthes/",
+    "object": {
+        "@context": "https://www.w3.org/ns/activitystreams",
+        "type": "Note",
+        "id": "http://mypubnode.pages.dev/u/neruthes/items/20230114-092527.note.json",
+        "url": "http://mypubnode.pages.dev/u/neruthes/items/20230114-092527.note.json",
+        "published": "2023-01-14T09:25:27Z",
+        "to": [
+            "http://mypubnode.pages.dev/u/neruthes/followers/",
+            "https://www.w3.org/ns/activitystreams#Public"
+        ],
+        "attributedTo": "http://mypubnode.pages.dev/u/neruthes/",
+        "content": "Hallo welt"
+    }
+}
