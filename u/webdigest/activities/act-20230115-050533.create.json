@@ -1,9 +1,9 @@
 {
     "@context": "https://www.w3.org/ns/activitystreams",
     "type": "Create",
-    "id": "http://mypubnode.pages.dev/u/webdigest/activities/act-20230115-050303.create.json",
-    "url": "http://mypubnode.pages.dev/u/webdigest/status/?id=act-20230115-050303.create.json",
-    "published": "2023-01-15T05:03:03Z",
+    "id": "http://mypubnode.pages.dev/u/webdigest/activities/act-20230115-050533.create.json",
+    "url": "http://mypubnode.pages.dev/u/webdigest/status/?id=act-20230115-050533.create.json",
+    "published": "2023-01-15T05:05:33Z",
     "to": [
         "http://mypubnode.pages.dev/u/webdigest/followers/",
         "https://www.w3.org/ns/activitystreams#Public"
@@ -12,9 +12,9 @@
     "object": {
         "@context": "https://www.w3.org/ns/activitystreams",
         "type": "Note",
-        "id": "http://mypubnode.pages.dev/u/webdigest/items/20230115-050303.note.json",
-        "url": "http://mypubnode.pages.dev/u/webdigest/items/20230115-050303.note.json",
-        "published": "2023-01-15T05:03:03Z",
+        "id": "http://mypubnode.pages.dev/u/webdigest/items/20230115-050533.note.json",
+        "url": "http://mypubnode.pages.dev/u/webdigest/items/20230115-050533.note.json",
+        "published": "2023-01-15T05:05:33Z",
         "to": [
             "http://mypubnode.pages.dev/u/webdigest/followers/",
             "https://www.w3.org/ns/activitystreams#Public"

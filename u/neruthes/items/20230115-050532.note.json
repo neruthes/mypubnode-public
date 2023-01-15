@@ -1,0 +1,13 @@
+{
+    "@context": "https://www.w3.org/ns/activitystreams",
+    "type": "Note",
+    "id": "http://mypubnode.pages.dev/u/neruthes/items/20230115-050532.note.json",
+    "url": "http://mypubnode.pages.dev/u/neruthes/items/20230115-050532.note.json",
+    "published": "2023-01-15T05:05:32Z",
+    "to": [
+        "http://mypubnode.pages.dev/u/neruthes/followers/",
+        "https://www.w3.org/ns/activitystreams#Public"
+    ],
+    "attributedTo": "http://mypubnode.pages.dev/u/neruthes/Person.json",
+    "content": "This is another test message. Hope things work well."
+}
