@@ -1,7 +1,8 @@
 {
     "@context": "https://www.w3.org/ns/activitystreams",
     "type": "Person",
-    "id": "http://mypubnode.pages.dev/u/neruthes/",
+    "url": "http://mypubnode.pages.dev/u/neruthes/",
+    "id": "http://mypubnode.pages.dev/u/neruthes/Person.json",
     "name": "Neruthes",
     "preferredUsername": "neruthes",
     "summary": "I jump over the lazy doge; it doesn't hurt me.",
@@ -12,7 +13,7 @@
     "liked": "http://mypubnode.pages.dev/u/neruthes/liked/index.json",
     "publicKey": {
         "id": "http://mypubnode.pages.dev/u/neruthes/public.pem",
-        "owner": "http://mypubnode.pages.dev/u/neruthes/",
+        "owner": "http://mypubnode.pages.dev/u/neruthes/Person.json",
         "publicKeyPem": "-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAzAmAu1qjtux83UEl1KmR\nQ3iN95f020JP65TWAbAImBx88QLJdT7K6KI2rTxBL/3Gh1OF7W+tIzKRoFVQ9kB4\nuHu5LDy6EzqAPzuy8F4tLNvb62QHO5bp27tOOwg83piFPug+OyAU129aGSZuML9t\nSronIiFHszbi93ndKZ/Baz0VNc+y5Og0lR41UN+6crIUE/SGQ1UmfJ4UasgoMxat\nbMiTekmEy4I0G0h7v3ihYliyIWkkHuMFStx4EQ9Hh0BcX4Jx046z616lCVEkn6hS\nFiPSUv/NidX6/tqMwJh2e0ea3xpome6u/jaDZl9XzjQ0C7wv14cd5WGflNlrh3Zd\ngwIDAQAB\n-----END PUBLIC KEY-----\n"
     }
 }

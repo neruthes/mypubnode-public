@@ -1,0 +1,13 @@
+{
+    "@context": "https://www.w3.org/ns/activitystreams",
+    "type": "Note",
+    "id": "http://mypubnode.pages.dev/u/neruthes/items/20230115-045620.note.json",
+    "url": "http://mypubnode.pages.dev/u/neruthes/items/20230115-045620.note.json",
+    "published": "2023-01-15T04:56:20Z",
+    "to": [
+        "http://mypubnode.pages.dev/u/neruthes/followers/",
+        "https://www.w3.org/ns/activitystreams#Public"
+    ],
+    "attributedTo": "http://mypubnode.pages.dev/u/neruthes/Person.json",
+    "content": "Hallo welt"
+}

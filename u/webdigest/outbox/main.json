@@ -8,23 +8,25 @@
         {
             "@context": "https://www.w3.org/ns/activitystreams",
             "type": "Create",
-            "id": "http://mypubnode.pages.dev/u/webdigest/activities/act-20230114-032933.create.json",
-            "published": "2023-01-14T03:29:33Z",
+            "id": "http://mypubnode.pages.dev/u/webdigest/activities/act-20230115-050303.create.json",
+            "url": "http://mypubnode.pages.dev/u/webdigest/status/?id=act-20230115-050303.create.json",
+            "published": "2023-01-15T05:03:03Z",
             "to": [
                 "http://mypubnode.pages.dev/u/webdigest/followers/",
                 "https://www.w3.org/ns/activitystreams#Public"
             ],
-            "actor": "http://mypubnode.pages.dev/u/webdigest/",
+            "actor": "http://mypubnode.pages.dev/u/webdigest/Person.json",
             "object": {
                 "@context": "https://www.w3.org/ns/activitystreams",
                 "type": "Note",
-                "id": "http://mypubnode.pages.dev/u/webdigest/items/20230114-032933.note.json",
-                "published": "2023-01-14T03:29:33Z",
+                "id": "http://mypubnode.pages.dev/u/webdigest/items/20230115-050303.note.json",
+                "url": "http://mypubnode.pages.dev/u/webdigest/items/20230115-050303.note.json",
+                "published": "2023-01-15T05:03:03Z",
                 "to": [
                     "http://mypubnode.pages.dev/u/webdigest/followers/",
                     "https://www.w3.org/ns/activitystreams#Public"
                 ],
-                "attributedTo": "http://mypubnode.pages.dev/u/webdigest/",
+                "attributedTo": "http://mypubnode.pages.dev/u/webdigest/Person.json",
                 "content": "/home/neruthes/DEV/webdigest/_dist/tgmsg.html"
             }
         }
