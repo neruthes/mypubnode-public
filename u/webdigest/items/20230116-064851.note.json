@@ -1,9 +1,9 @@
 {
     "@context": "https://www.w3.org/ns/activitystreams",
     "type": "Note",
-    "id": "http://mypubnode.pages.dev/u/webdigest/items/20230115-045939.note.json",
-    "url": "http://mypubnode.pages.dev/u/webdigest/items/20230115-045939.note.json",
-    "published": "2023-01-15T04:59:39Z",
+    "id": "http://mypubnode.pages.dev/u/webdigest/items/20230116-064851.note.json",
+    "url": "http://mypubnode.pages.dev/u/webdigest/items/20230116-064851.note.json",
+    "published": "2023-01-16T06:48:51Z",
     "to": [
         "http://mypubnode.pages.dev/u/webdigest/followers/",
         "https://www.w3.org/ns/activitystreams#Public"
